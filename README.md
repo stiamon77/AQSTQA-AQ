@@ -12,6 +12,15 @@ Buy me a coffee https://paypal.me/StanislavTimofeev       )
 See the documentation for the sensor in the folder [Documentation](https://github.com/stiamon77/AQSTQA-AQ/blob/main/Documentation/Instructions.pdf)
 
 ## **Appearance of the device**
+
+**V3 version**
+
+![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v3l1sm.jpg)
+
+**New version with touch screen V4**
+
+![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v4l3sm.jpg)
+
 **V3 version**
 
 ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v3l1sm.jpg) ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v3l2sm.jpg)
@@ -20,9 +29,11 @@ See the documentation for the sensor in the folder [Documentation](https://githu
 
 **New version with touch screen V4**
 
-![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v3b1sm.jpg) ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v3l2sm.jpg)
+![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v4l3sm.jpg) ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v4l6sm.jpg)
 
-**General design of displays**
+![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v4l5sm.jpg) ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v4l4sm.jpg)
+
+**General design of displays V3**
 
 ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/Display%20narrow.png)  ![Image](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/Display%203%20big%20another%20font.png) 
 
