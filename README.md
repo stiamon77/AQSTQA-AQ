@@ -9,6 +9,8 @@ Buy me a coffee https://paypal.me/StanislavTimofeev       )
 
 See the documentation for the sensor in the folder [Documentation](https://github.com/stiamon77/AQSTQA-AQ/blob/main/Documentation/Instructions.pdf)
 
+## **Appearance of the device**
+
 ## **Home Assistant integration**
 
 ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/ha1sm.jpg)
