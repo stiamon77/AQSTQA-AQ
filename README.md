@@ -5,6 +5,8 @@ Air quality sensor, CO2, pm2.5, pm10, TVOC, Carbon Dioxide, Atmospheric pressure
 
 Buy me a coffee https://paypal.me/StanislavTimofeev       )
 
+**Industrial and interface design: Liberiam (Mary Timofeeva)**
+
 **Main file AQSTQA-AQ-v3.2.ino**
 
 See the documentation for the sensor in the folder [Documentation](https://github.com/stiamon77/AQSTQA-AQ/blob/main/Documentation/Instructions.pdf)
