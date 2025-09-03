@@ -14,7 +14,7 @@ See the documentation for the sensor in the folder [Documentation](https://githu
 ## **Appearance of the device**
 **V3 version**
 
-![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v3l1sm.jpg) ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v3l2sm.j)
+![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v3l1sm.jpg) ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v3l2sm.jpg)
 
 ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v3b1sm.jpg) ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/v3b2sm.jpg)
 
