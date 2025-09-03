@@ -1,4 +1,4 @@
-#The project is in development and is not ready for use yet! I hope we will finish it soon)
+# The project is in development and is not ready for use yet! I hope we will finish it soon)
 
 # AQSTQA-AQ
 Air quality sensor, CO2, pm2.5, pm10, TVOC, Carbon Dioxide, Atmospheric pressure, Humidity, Temperature with integration to Home Assistant.
