@@ -44,3 +44,9 @@ See the documentation for the sensor in the folder [Documentation](https://githu
 ## **Home Assistant integration**
 
 ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/ha1sm.jpg)  ![Image alt](https://github.com/stiamon77/AQSTQA-AQ/blob/main/image/ha2sm.jpg)
+
+
+
+## [Lend your support to our projects](https://taplink.cc/aqstqa)
+
+
